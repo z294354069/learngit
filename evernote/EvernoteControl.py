@@ -7,7 +7,7 @@ import evernote.edam.type.ttypes as Types
 import evernote.edam.error.ttypes as Error
 
 SERVICE_HOST = 'app.yinxiang.com'
-Dev_Token = 'S=s16:U=33fa90:E=15b37ecfe6b:C=153e03bd190:P=1cd:A=en-devtoken:V=2:H=9cecf8305cc371bb7a2c1ce1ec6292cb'
+Dev_Token = ''
 
 
 class EvernoteControl:
